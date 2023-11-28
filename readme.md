@@ -17,8 +17,7 @@ Projeto do Bootcamp da DIO - Potência Tech iFood - Desenvolvimento de Jogos
 
 <br>
 
-<div align="center" margin="auto" width="100%">
-</div>
+![](https://github.com/JanineDiniz/Jo_Ken_Po/blob/main/.github/projeto.gif)
 
 ## 🚀 Tecnologias
 
