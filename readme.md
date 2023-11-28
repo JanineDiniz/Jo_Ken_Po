@@ -18,9 +18,6 @@ Projeto do Bootcamp da DIO - Potência Tech iFood - Desenvolvimento de Jogos
 <br>
 
 <div align="center" margin="auto" width="100%">
-  <video class="video" autoplay loop muted width="45%">
-    <source src="./.github/projeto.mp4" type="video/mp4">
-  </video>
 </div>
 
 ## 🚀 Tecnologias
